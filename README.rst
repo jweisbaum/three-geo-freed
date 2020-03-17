@@ -1,5 +1,6 @@
-three-geo
+three-geo-freed
 ===================
+# Fork of **three-geo** that allows you to use any tile server.
 
 **three-geo** is a `three.js <https://github.com/mrdoob/three.js>`__ based geographic visualization library.  Using
 three-geo, we can easily build satellite-textured 3D terrain models in near
